@@ -1,1 +1,1 @@
-web: java $JAVA_OPTS -jar javajardemo.jar
+web: java $JAVA_OPTS --port=8080 -jar javajardemo.jar
